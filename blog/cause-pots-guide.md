@@ -4,7 +4,6 @@ description: A concise guide to how Cause Pots works, a decentralized group savi
 slug: cause-pots-guide
 authors:
   - name: Anmol Arora
-    title: Dev @ Jupiter
     url: https://twitter.com/0xanmol
     image_url: /blog_profile_pics/0xanmol.jpg
 tags:
